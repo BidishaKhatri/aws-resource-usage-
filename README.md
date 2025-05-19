@@ -15,7 +15,7 @@ A shell script to report AWS resource usage
 
 ## Usage
 
-1. Make sure AWS CLI and 'jq' are installed and configured with your AWS credentials.
+1. Ensure AWS CLI and 'jq' are installed and configured with your AWS credentials.
 2. Run the script:
 
 chmod +x aws_resource_tracker.sh
