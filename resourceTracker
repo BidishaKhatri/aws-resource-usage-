@@ -1,0 +1,15 @@
+Print list of s3 buckets
+2025-05-02 14:41:56 bdsa-in-tokyo
+2025-05-14 09:52:07 hello-cs-bucket
+
+Print list of ec2 instances
+i-066ce6a16dd986079
+
+Print list of lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+{
+    "Users": []
+}
